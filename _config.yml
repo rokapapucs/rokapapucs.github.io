@@ -2,3 +2,4 @@ theme: jekyll-theme-leap-day
 title: "rokapapucs blog"
 description: "Cooking adventures and experiences."
 show_downloads: false
+google_analytics: UA-115445865-1

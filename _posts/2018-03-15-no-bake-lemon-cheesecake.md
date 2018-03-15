@@ -10,7 +10,7 @@ date:   2018-03-15
 I got a little tip from my brother, that my mom would like lemon cheesecake for her birthday. Doing some research I
 found that there are different kind of cheesecakes:
 - you can choose to bake, or not to bake it in the oven
-- only the cream contains lemon, or the cream is marbled with lemon curd
+- only the filling contains lemon, or the filling is marbled with lemon curd
 
 As the title suggests, this is a **no-bake** lemon cheesecake with **lemon curd**.
 
@@ -27,7 +27,7 @@ My goal in this blog is to be specific in sharing my experiences, so it's easy f
 
 The cake has three components:
 1. A solid **base** from biscuits
-2. **Cream** made from mascarpone, white chocolate, lemon zest, and other great ingredients.
+2. **Filling** made from mascarpone, white chocolate, lemon zest, and other great ingredients.
 3. **Lemon-curd** topping to decorate and to give an extra dose of lemon taste.
 
 ## Ingredients
@@ -40,7 +40,7 @@ For the **base**
   - grind it in a food processor if you buy whole biscuits
 - 10 dkg melted butter
 
-For the **cream**
+For the **filling**
 - 20 dkg white chocolate
 - 50 dkg mascarpone
   - best to use room temperature mascarpone, your arms will thank you
@@ -73,7 +73,7 @@ but make sure to stir the mixture to cool down evenly.
 6. Put bowl back to over simmering water, whisking regularly, until the mixture thickens. Be patient, this is going to take time. Make sure it's thick, you don't want it runny.
 7. Let it cool down completely.
 
-**Cream**
+**Filling**
 
 Similarly to the lemon-curd, we are going to use the heat of simmering water to melt chocolate.
 
@@ -85,9 +85,9 @@ Similarly to the lemon-curd, we are going to use the heat of simmering water to 
 **Combine the components**
 
 1. Retrieve the base from the refrigerator.
-2. Pour the cream on the biscuit base. Smooth is as much as you can.
-3. Dollop lemon curd on the top of the cream layer, preferably in little spots.
-4. With the handle of a spoon, or a chop-stick, draw lines through the cream and lemon curd dollops. Use your creativity to create marble patterns.
+2. Pour the filling on the biscuit base. Smooth is as much as you can.
+3. Dollop lemon curd on the top of the filling, preferably in little spots.
+4. With the handle of a spoon, or a chop-stick, draw lines through the filling and lemon curd dollops. Use your creativity to create marble patterns.
 5. Refrigerate overnight.
 
 ## Variations

@@ -32,7 +32,7 @@ The cake has three components:
 
 ## Ingredients
 
-The amounts are originally for a 22 cm cake tin, but it worked fine in a 24 cm one too. Feel free to adjust tin size to your needs.
+The amounts are originally for a 22 cm cake tin, but it worked fine in a 24 cm one too. Feel free to adjust amounts to your needs.
 
 For the **base**
 - 20 dkg ground oat-biscuits
